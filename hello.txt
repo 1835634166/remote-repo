@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello pdzx
-=======
 hello pdzx  local
->>>>>>> 0b0220e (第一次提交)
